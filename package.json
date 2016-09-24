@@ -1,0 +1,17 @@
+{
+  "name": "sk-api",
+  "version": "0.0.1",
+  "description": "API for sk-student-dashboard application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index",
+    "deploy": "now -e NODE_ENV=production"
+  },
+  "author": "Michael Rambeau",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.1",
+    "feathers": "^2.0.2",
+    "feathers-rest": "^1.5.0"
+  }
+}

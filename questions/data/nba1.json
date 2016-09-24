@@ -1,0 +1,66 @@
+[
+  {
+    "id": "level1-1",
+    "mode": "multiple_choice",
+    "validator": "marked_correct",
+    "text": "Who won the NBA Finals in 2014 ?",
+    "choices": [
+      {
+        "id": 1,
+        "text": "Spurs",
+        "correct": true
+      }, {
+        "id": 2,
+        "text": "Heat"
+      }
+    ]
+  },
+  {
+    "id": "level1-2",
+    "mode": "multiple_choice",
+    "validator": "marked_correct",
+    "text": "Who scored 100 points in one game ?",
+    "choices": [
+      {
+        "id": 1,
+        "text": "Wilt Chamberlain",
+        "correct": true
+      }, {
+        "id": 2,
+        "text": "Kareem Abdul-Jabbar"
+      }
+    ]
+  },
+  {
+    "id": "level1-3",
+    "mode": "multiple_choice",
+    "validator": "marked_correct",
+    "text": "Where used to play the Supersonics ?",
+    "choices": [
+      {
+        "id": 1,
+        "text": "Seattle",
+        "correct": true
+      }, {
+        "id": 2,
+        "text": "Kansas city"
+      }
+    ]
+  },
+  {
+    "id": "level1-4",
+    "mode": "multiple_choice",
+    "validator": "marked_correct",
+    "text": "Who is the all-time leader in `assists` ?",
+    "choices": [
+      {
+        "id": 1,
+        "text": "John Stockton",
+        "correct": true
+      }, {
+        "id": 2,
+        "text": "Magic Johnson"
+      }
+    ]
+  }
+]

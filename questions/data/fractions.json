@@ -1,0 +1,57 @@
+[{
+  "id": "951",
+  "text": "1/4 is equivalent to 2/6",
+  "img": "https://s3.amazonaws.com/sk-cdn/games/html5/images/new_standards/951.png",
+  "mode": "multiple_choice",
+  "validator": "marked_correct",
+  "choices": [{
+    "id": "1001",
+    "text": "False",
+    "correct": true
+  }, {
+    "id": "1002",
+    "text": "True"
+  }]
+  }, {
+    "id": "953",
+    "text": "These fractions are equivalent",
+    "img": "https://s3.amazonaws.com/sk-cdn/games/html5/images/new_standards/953.png",
+    "mode": "multiple_choice",
+    "validator": "marked_correct",
+    "choices": [{
+      "id": "1001",
+      "text": "True",
+      "correct": true
+    }, {
+      "id": "1002",
+      "text": "False"
+    }]
+  }, {
+    "id": "955",
+    "text": "2/6 is equivalent to 4/12.",
+    "img": "https://s3.amazonaws.com/sk-cdn/games/html5/images/new_standards/956.png",
+    "mode": "multiple_choice",
+    "validator": "marked_correct",
+    "choices": [{
+      "id": "1001",
+      "text": "True",
+      "correct": true
+    }, {
+      "id": "1002",
+      "text": "False"
+    }]
+  }, {
+    "id": "957",
+    "text": "2/3 is equivalent to 5/6",
+    "img": "https://s3.amazonaws.com/sk-cdn/games/html5/images/new_standards/957.png",
+    "mode": "multiple_choice",
+    "validator": "marked_correct",
+    "choices": [{
+      "id": "1001",
+      "text": "True"
+    }, {
+      "id": "1002",
+      "text": "False",
+      "correct": true
+    }]
+  }]

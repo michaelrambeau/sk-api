@@ -1,0 +1,50 @@
+[
+  {
+    "id": "level2-1",
+    "mode": "multiple_choice",
+    "validator": "marked_correct",
+    "text": "Who is from Jamaica ?",
+    "choices": [
+      {
+        "id": 1,
+        "text": "Patrick Ewing",
+        "correct": true
+      }, {
+        "id": "2",
+        "text": "Hakeem Olajuwon"
+      }
+    ]
+  },
+  {
+    "id": "level2-2",
+    "mode": "multiple_choice",
+    "validator": "marked_correct",
+    "text": "Which team drafted Shaquille O'Neal",
+    "choices": [
+      {
+        "id": 1,
+        "text": "Orlando Magic",
+        "correct": true
+      }, {
+        "id": 2,
+        "text": "Miami Heat"
+      }
+    ]
+  },
+  {
+    "id": "level2-3",
+    "mode": "multiple_choice",
+    "validator": "marked_correct",
+    "text": "Who was the `mailman` ?",
+    "choices": [
+      {
+        "id": 1,
+        "text": "Karl Malone",
+        "correct": true
+      }, {
+        "id": 2,
+        "text": "John Stockton"
+      }
+    ]
+  }
+]
